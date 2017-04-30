@@ -1,6 +1,6 @@
 # mvn_servlet_demo
 
-Salut :)
+Salut :-)
 
 C'est un petit projet pour s'initier à l'environnement J2EE 
 en utilisant Maven quasi-exclusivement (sans utiliser Netbeans ou Eclipse).
